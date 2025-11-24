@@ -8,8 +8,6 @@ How do long-term rainfall trends influence density changes of goats, sheep, and 
 ### Data Collection
 - **Period**: 1980- 2026
 - **Location**: all livelihood zones, Somalia
-- **Frequency**: TBC
-- **Instruments**: TBS
 
 ### File Organization
 - `raw_data/` - Original logger files
