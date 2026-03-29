@@ -65,7 +65,7 @@ Satellite-based rainfall estimates used to analyze climate variability and droug
 
 | Resolution | Approx. Size |
 |------------|-------------|
-| 0.05°      | ~5 km       |
+| 0.05°      | 5 km       |
 
 ---
 
