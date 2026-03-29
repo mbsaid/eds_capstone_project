@@ -1,7 +1,6 @@
 # 📚 Metadata Documentation
 
 ## 📌 **Project**: **Climate–Livestock Dynamics in Somalia:**
-
 *Rainfall Trends and Shifts in Pastoral Livestock Stock Across Somalia (1981–2024)*
 
 ---
@@ -252,4 +251,3 @@ Shapefile (.shp)
 - Rainfall data is derived from CHIRPS
 - Livestock data is sourced from FAOSTAT
 - Spatial variables are based on GADM boundaries
-
