@@ -25,8 +25,6 @@ Somalia’s economy and livelihoods are highly dependent on pastoralism. Climate
 
 ### Study Scope
 
-`
-
 - **Period**: `1980- 2026`
 - **Location**: `Somalia (national and regional levels)`
 - **Frequency**:`Annual`
