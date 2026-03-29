@@ -1,30 +1,72 @@
-# Environmental Data Science Capstone Project
+### **Climate Livestock Dynamics in Somalia: Rainfall Trends and Shifts in Pastoral Livestock Stock Across Somalia \(1981–2024\)**
 
-### Project title: How multi-year rainfall trends affect pastoral carrying capacity and livestock density shifts in Somalia
+- Author: Mohamed Said
+- Date: 2025-2026
 
-### Research question
-How do long-term rainfall trends influence density changes of goats, sheep, and camels across Somalia's livelihood zones?
+## Environmental Research Question: 
 
-### Data Collection
-- **Period**: 1980- 2026
-- **Location**: all livelihood zones, Somalia
-- **Frequency**: TBC
-- **Instruments**: TBS
+How do long-term rainfall trends influence density changes of goats, sheep, and camels across Somalia?
+
+### Summary
+
+This project analyzes long-term rainfall variability and its relationship with livestock population dynamics in Somalia using climate and livestock datasets. The goal is to understand how rainfall trends influence pastoral systems and livestock density changes.
+
+### Rationale
+
+Somalia’s economy and livelihoods are highly dependent on pastoralism. Climate variability, particularly rainfall fluctuations and droughts, directly affects livestock health and carrying capacity. Understanding these relationships is important for improving resilience, informing policy, and supporting sustainable resource management.
+
+### Data Sources
+
+- Rainfall data preprocessing (clipping, aggregation)
+- Rainfall anomaly calculation
+- Exploratory data analysis (EDA)
+- Livestock time-series analysis
+- Climate–livestock modeling (GAM)
+
+### Study Scope
+
+`
+
+- **Period**: `1980- 2026`
+- **Location**: `Somalia (national and regional levels)`
+- **Frequency**:`Annual`
+
+### Methodology
+
+- Rainfall data preprocessing (clipping, aggregation)
+- Rainfall anomaly calculation
+- Exploratory data analysis (EDA)
+- Livestock time-series analysis
+- Climate–livestock modeling (GAM)
 
 ### File Organization
-- `raw_data/` - Original logger files
-- `processed_data/` - Cleaned CSV files
-- `analysis/` - R and Python scripts
-- `metadata/` - Data documentation
-- `outputs/` - Figures and reports
-- `archive/` - Legacy Data
+
+- `data/raw_data/` - Original CHIRPS rainfall and FAOSTAT livestock data
+- `data/processed_data/` - Processed and transformed datasets
+- `data/clean_data/` - Analysis-ready datasets
+- `data/gis_data/` - Spatial data (GADM shapefiles)
+- `data/metadata/` - Data documentation and descriptions
+- `data/archive/` - Legacy and unused data
+- `scripts/` - R scripts for data processing and analysis
+- `outputs/` - Figures, tables, and results
+- `reports/` - RMarkdown, PDF, and written reports
+- `references/` - reference
 
 ### Requirements
-- R and Python 
-- Required  packages: dplyr, readr, ggplot2, TBC
+
+| Tool                  | Purpose                                  |
+|-----------------------|------------------------------------------|
+| `R`                     | Data analysis and modeling               |
+| `Bash or Python`       | File management and Git operations       |
+| `CoCalc`                | Cloud-based development environment      |
+|` Git & GitHub`       | Version control and project management   |
+
 
 ### Contact
-Mohamed Said  - mbsaid@gmail.com
+
+Mohamed Said - mbsaid@gmail.com
 
 ### License
+
 MIT License
+
