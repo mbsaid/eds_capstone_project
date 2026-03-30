@@ -164,9 +164,9 @@ Livestock trends reflect climate plus markets, conflict, and pastoral mobility. 
 | `CoCalc`       | Cloud-based development environment    |
 |`Git & GitHub`  | Version control and project management |
 
-#### Ethical
+#### Ethical Considerations
 
-| **Aspect**  | **Description**                                    |
+| **Aspect** | **Description**                                    |
 | :----------:| ---------------------------------------------------|
 | Privacy     | No personal data is included                       |
 | Governance  | Data is openly available and ethically sourced     |
@@ -180,9 +180,8 @@ To reproduce this project, follow these steps:
 
 1. **Clone the GitHub repository.**  
 2. **Install required software and libraries:**  
-   - R (or RStudio)  
-   - Required packages: `dplyr`, `ggplot2`, and others as specified.  
-3. **Open and run the provided Jupyter notebook or R Markdown file.**  
+   - R (or RStudio)  and Required packages  
+3. **Open and run the provided Jupyter notebook or R Markdown file.** 
 4. **Follow code and instructions to reproduce figures and analyses.**  
 
 #### Contact
