@@ -188,7 +188,6 @@ To reproduce this project, follow these steps:
 
 Mohamed Said  
 [Email](mailto:mbsaid93@gmail.com) 
-[Linkedin](https://www.linkedin.com/in/mohamed-said-613895156/)
 
 #### License
 
